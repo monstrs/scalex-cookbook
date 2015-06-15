@@ -1,0 +1,10 @@
+source 'https://rubygems.org/'
+
+gem 'test-kitchen'
+gem 'kitchen-ec2-shared', git: 'https://github.com/monstrs/kitchen-ec2-shared.git'
+gem 'berkshelf'
+gem 'chef-zero'
+gem 'foodcritic'
+gem 'rubocop'
+gem 'rubocop-checkstyle_formatter'
+gem 'rake'
